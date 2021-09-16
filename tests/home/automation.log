@@ -1,0 +1,107 @@
+09/14/2021 08:07:22 AM - LoginPage - INFO: Element found with locator: loginLink and  locatorType: id
+09/14/2021 08:07:23 AM - LoginPage - INFO: Clicked on element with locator: loginLink locatorType: id
+09/14/2021 08:07:23 AM - LoginPage - INFO: Element found with locator: UserName and  locatorType: name
+09/14/2021 08:07:23 AM - LoginPage - INFO: Sent data on element with locator: UserName locatorType: name
+09/14/2021 08:07:24 AM - LoginPage - INFO: Element found with locator: Password and  locatorType: name
+09/14/2021 08:07:24 AM - LoginPage - INFO: Sent data on element with locator: Password locatorType: name
+09/14/2021 08:07:24 AM - LoginPage - INFO: Element found with locator: //*[@id="loginForm"]/form/div[4]/div/input and  locatorType: xpath
+09/14/2021 08:07:25 AM - LoginPage - INFO: Clicked on element with locator: //*[@id="loginForm"]/form/div[4]/div/input locatorType: xpath
+09/14/2021 08:07:25 AM - LoginPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:07:25 AM - LoginPage - INFO: Element present with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:07:25 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login successful
+09/14/2021 08:07:25 AM - TestStatus - ERROR: test_validLogin ### PASSED
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Element not found with locator: Home and locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Cannot click on the element with locator: Home locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Element not found with locator: About and locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Cannot click on the element with locator: About locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Element not found with locator: Employee List and locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Cannot click on the element with locator: Employee List locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Element not found with locator: Manage Users and locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Cannot click on the element with locator: Manage Users locatorType: link text
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[1]/a and  locatorType: xpath
+09/14/2021 08:07:25 AM - NavigationPage - INFO: Clicked on element with locator: //*[@id="logoutForm"]/ul/li[1]/a locatorType: xpath
+09/14/2021 08:07:25 AM - LoginPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:07:25 AM - LoginPage - INFO: Element not found with locator: //*[@id="logoutForm"]/ul/li[2]/a and locatorType: link text
+09/14/2021 08:07:25 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: link text
+09/14/2021 08:08:53 AM - LoginPage - INFO: Element found with locator: loginLink and  locatorType: id
+09/14/2021 08:08:54 AM - LoginPage - INFO: Clicked on element with locator: loginLink locatorType: id
+09/14/2021 08:08:54 AM - LoginPage - INFO: Element found with locator: UserName and  locatorType: name
+09/14/2021 08:08:54 AM - LoginPage - INFO: Sent data on element with locator: UserName locatorType: name
+09/14/2021 08:08:54 AM - LoginPage - INFO: Element found with locator: Password and  locatorType: name
+09/14/2021 08:08:54 AM - LoginPage - INFO: Sent data on element with locator: Password locatorType: name
+09/14/2021 08:08:54 AM - LoginPage - INFO: Element found with locator: //*[@id="loginForm"]/form/div[4]/div/input and  locatorType: xpath
+09/14/2021 08:08:55 AM - LoginPage - INFO: Clicked on element with locator: //*[@id="loginForm"]/form/div[4]/div/input locatorType: xpath
+09/14/2021 08:08:55 AM - LoginPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:08:55 AM - LoginPage - INFO: Element present with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:43:33 AM - LoginPage - INFO: Element found with locator: loginLink and  locatorType: id
+09/14/2021 08:43:34 AM - LoginPage - INFO: Clicked on element with locator: loginLink locatorType: id
+09/14/2021 08:43:34 AM - LoginPage - INFO: Element found with locator: UserName and  locatorType: name
+09/14/2021 08:43:34 AM - LoginPage - INFO: Sent data on element with locator: UserName locatorType: name
+09/14/2021 08:43:34 AM - LoginPage - INFO: Element found with locator: Password and  locatorType: name
+09/14/2021 08:43:35 AM - LoginPage - INFO: Sent data on element with locator: Password locatorType: name
+09/14/2021 08:43:35 AM - LoginPage - INFO: Element found with locator: //*[@id="loginForm"]/form/div[4]/div/input and  locatorType: xpath
+09/14/2021 08:43:35 AM - LoginPage - INFO: Clicked on element with locator: //*[@id="loginForm"]/form/div[4]/div/input locatorType: xpath
+09/14/2021 08:43:35 AM - LoginPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:43:35 AM - LoginPage - INFO: Element present with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:43:35 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login successful
+09/14/2021 08:43:35 AM - TestStatus - ERROR: test_validLogin ### PASSED
+09/14/2021 08:44:01 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:44:01 AM - NavigationPage - INFO: Element not found with locator: Home and locatorType: link text
+09/14/2021 08:44:01 AM - NavigationPage - INFO: Cannot click on the element with locator: Home locatorType: link text
+09/14/2021 08:44:38 AM - NavigationPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:44:38 AM - NavigationPage - INFO: Element not found with locator: About and locatorType: link text
+09/14/2021 08:44:38 AM - NavigationPage - INFO: Cannot click on the element with locator: About locatorType: link text
+09/14/2021 08:49:23 AM - LoginPage - INFO: Element found with locator: loginLink and  locatorType: id
+09/14/2021 08:49:24 AM - LoginPage - INFO: Clicked on element with locator: loginLink locatorType: id
+09/14/2021 08:49:24 AM - LoginPage - INFO: Element found with locator: UserName and  locatorType: name
+09/14/2021 08:49:24 AM - LoginPage - INFO: Sent data on element with locator: UserName locatorType: name
+09/14/2021 08:49:24 AM - LoginPage - INFO: Element found with locator: Password and  locatorType: name
+09/14/2021 08:49:24 AM - LoginPage - INFO: Sent data on element with locator: Password locatorType: name
+09/14/2021 08:49:24 AM - LoginPage - INFO: Element found with locator: //*[@id="loginForm"]/form/div[4]/div/input and  locatorType: xpath
+09/14/2021 08:49:25 AM - LoginPage - INFO: Clicked on element with locator: //*[@id="loginForm"]/form/div[4]/div/input locatorType: xpath
+09/14/2021 08:49:25 AM - LoginPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:49:25 AM - LoginPage - INFO: Element present with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:49:25 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login successful
+09/14/2021 08:49:25 AM - TestStatus - ERROR: test_validLogin ### PASSED
+09/14/2021 08:49:25 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[1]/a and  locatorType: xpath
+09/14/2021 08:49:26 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[1]/a locatorType: xpath
+09/14/2021 08:49:26 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:49:27 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:49:27 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[3]/a and  locatorType: xpath
+09/14/2021 08:49:27 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[3]/a locatorType: xpath
+09/14/2021 08:49:27 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[5]/a and  locatorType: xpath
+09/14/2021 08:49:28 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[5]/a locatorType: xpath
+09/14/2021 08:49:28 AM - NavigationPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[1]/a and  locatorType: xpath
+09/14/2021 08:49:29 AM - NavigationPage - INFO: Clicked on element with locator: //*[@id="logoutForm"]/ul/li[1]/a locatorType: xpath
+09/14/2021 08:49:29 AM - LoginPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:49:29 AM - LoginPage - INFO: Element not found with locator: //*[@id="logoutForm"]/ul/li[2]/a and locatorType: link text
+09/14/2021 08:49:29 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: link text
+09/14/2021 08:50:18 AM - LoginPage - INFO: Element found with locator: loginLink and  locatorType: id
+09/14/2021 08:50:19 AM - LoginPage - INFO: Clicked on element with locator: loginLink locatorType: id
+09/14/2021 08:50:19 AM - LoginPage - INFO: Element found with locator: UserName and  locatorType: name
+09/14/2021 08:50:19 AM - LoginPage - INFO: Sent data on element with locator: UserName locatorType: name
+09/14/2021 08:50:19 AM - LoginPage - INFO: Element found with locator: Password and  locatorType: name
+09/14/2021 08:50:19 AM - LoginPage - INFO: Sent data on element with locator: Password locatorType: name
+09/14/2021 08:50:19 AM - LoginPage - INFO: Element found with locator: //*[@id="loginForm"]/form/div[4]/div/input and  locatorType: xpath
+09/14/2021 08:50:20 AM - LoginPage - INFO: Clicked on element with locator: //*[@id="loginForm"]/form/div[4]/div/input locatorType: xpath
+09/14/2021 08:50:20 AM - LoginPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:50:20 AM - LoginPage - INFO: Element present with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:50:20 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: Login successful
+09/14/2021 08:50:20 AM - TestStatus - ERROR: test_validLogin ### PASSED
+09/14/2021 08:50:20 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[1]/a and  locatorType: xpath
+09/14/2021 08:50:21 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[1]/a locatorType: xpath
+09/14/2021 08:50:21 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[2]/a and  locatorType: xpath
+09/14/2021 08:50:21 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[2]/a locatorType: xpath
+09/14/2021 08:50:21 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[3]/a and  locatorType: xpath
+09/14/2021 08:50:22 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[3]/a locatorType: xpath
+09/14/2021 08:50:22 AM - NavigationPage - INFO: Element found with locator: /html/body/div[1]/div/div[2]/ul/li[5]/a and  locatorType: xpath
+09/14/2021 08:50:23 AM - NavigationPage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[2]/ul/li[5]/a locatorType: xpath
+09/14/2021 08:50:23 AM - NavigationPage - INFO: Element found with locator: //*[@id="logoutForm"]/ul/li[1]/a and  locatorType: xpath
+09/14/2021 08:50:23 AM - NavigationPage - INFO: Clicked on element with locator: //*[@id="logoutForm"]/ul/li[1]/a locatorType: xpath
+09/14/2021 08:50:23 AM - LoginPage - INFO: Locator type link text not correct/supported
+09/14/2021 08:50:23 AM - LoginPage - INFO: Element not found with locator: //*[@id="logoutForm"]/ul/li[2]/a and locatorType: link text
+09/14/2021 08:50:23 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@id="logoutForm"]/ul/li[2]/a locatorType: link text
